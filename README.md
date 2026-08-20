@@ -192,8 +192,8 @@ Audit de sécurité complet avec scan de vulnérabilités, pentests et rapport d
 
 | Langue | Niveau |
 |--------|--------|
-| 🇫🇷 Français | Courant |
-| 🇬🇧 Anglais | Technique |
+| Français | Courant |
+| Anglais | Technique |
 | Wolof | Langue maternelle |
 | Soninké | Courant |
 
